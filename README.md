@@ -2,6 +2,7 @@
 Empovation SQL Challenge
 
 Overview
+
 This project focuses on analyzing and optimizing the sales performance of an e-commerce platform by examining client distribution, revenue generation, and inventory management. The goal is to identify key trends, insights, and actionable strategies to enhance business operations and profitability.
 
 Project Components
