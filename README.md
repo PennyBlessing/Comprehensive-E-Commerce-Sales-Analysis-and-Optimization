@@ -83,8 +83,8 @@ Files
 dax.pbix: Power BI file containing the data visualizations and analysis.
 E-COMMERCE SALES ANALYSIS.pdf: PDF document detailing the analysis and visualizations.
 Tools Used
-Microsoft Power BI
-SQL
+Microsoft Power BI,
+SQL,
 Excel
 
 Author
